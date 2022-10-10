@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coinflipper/static/css/main.3e887d04.css",
+    "main.js": "/coinflipper/static/js/main.b5507686.js",
+    "static/js/787.809767d4.chunk.js": "/coinflipper/static/js/787.809767d4.chunk.js",
+    "index.html": "/coinflipper/index.html",
+    "main.3e887d04.css.map": "/coinflipper/static/css/main.3e887d04.css.map",
+    "main.b5507686.js.map": "/coinflipper/static/js/main.b5507686.js.map",
+    "787.809767d4.chunk.js.map": "/coinflipper/static/js/787.809767d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e887d04.css",
+    "static/js/main.b5507686.js"
+  ]
+}
